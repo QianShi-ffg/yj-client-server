@@ -1,26 +1,28 @@
 [
   {
-    "icon": "''",
-    "name": "mychat",
-    "id": "fafdsafasd"
+    "icon": "",
+    "name": "张三",
+    "password": "147258",
+    "id": "15666666666"
   },
   {
-    "icon": "''",
-    "name": "mychat1",
-    "id": "sgaasdgg"
+    "icon": "",
+    "name": "李四",
+    "password": "147258",
+    "id": "15666666667"
   },
   {
-    "icon": "''",
+    "icon": "",
     "name": "mychat2",
     "id": "bvcbxcvzvz"
   },
   {
-    "icon": "''",
+    "icon": "",
     "name": "mychat3",
     "id": "erhrtggd"
   },
   {
-    "icon": "''",
+    "icon": "",
     "name": "mychat4",
     "id": "jhjhfgcn"
   }
